@@ -49,12 +49,18 @@ Deployment
 You can deploy this project using:
 
 (back to top)
+
 ## Authors
 
 ?? **Mladan**
 
 - GitHub: [@djo1975](https://github.com/djo1975)
+
+## Live Demo
+
 - https://djo1975.github.io/Portfolio--online-version.github.io/
+
+
 
 ## ?? :raised_hand: :raised_hand: Contributions
 
