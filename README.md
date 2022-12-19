@@ -10,12 +10,23 @@ To get a local copy up and running follow these simple steps:
 
 ## :blue_book: Learning Objectives
 
-- Understand how to parse a Figma design to create a UI.
-- Flexbox to place elements in the page.
-- Build a personal portfolio site.
-- Use images and backgrounds to enhance the look of the website.
-computer Getting Started
-Describe how a new developer could make use of your project.
+-For this milestone you will make your website available online.
+
+IMPORTANT NOTE: Read all requirements before you start building your project.
+
+General requirements
+Make sure that there are no linter errors.
+Make sure that you used correct flow (Github Flow.
+Make sure that you documented your work in a professional way.
+Project requirements
+IMPORTANT NOTE: For each Microverse project, you need to create a separate pull request. Read how to work with multiple pull requests in your one repository in the most efficient way.
+
+Deploy your website using GitHub Pages.
+Check the online version of your portfolio and make sure that the page works properly.
+Update the README of your repository to include a link to the online version.
+If by any chance you have deployed your app earlier, open an issue with a link to the online version of your app. Otherwise, submit a link to the PR with changes required for the deploy.
+
+
 ## 💻 Get Started
 To get a local copy up and running, follow these steps.
 
@@ -43,7 +54,7 @@ You can deploy this project using:
 ?? **Mladan**
 
 - GitHub: [@djo1975](https://github.com/djo1975)
-
+-https://djo1975.github.io/Portfolio--online-version.github.io/
 
 ## ?? :raised_hand: :raised_hand: Contributions
 
